@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Alex Marinov",
+  "classifications": [ "NXOpen" ],
+  "identity": "NX.Journal.Template",
+  "name": "NX Journal Template",
+  "shortName": "nxjournal",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "NX.Journal.Template",
+  "preferNameDirectory": true,
+  "symbols": {
+    "NXJournalName":{
+      "type": "parameter",
+      "description": "NX Journal Name",
+      "defaultValue": "NXJournal",
+      "replaces": "NXJournal"
+    }
+  }
+}
