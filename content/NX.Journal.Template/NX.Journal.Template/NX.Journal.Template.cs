@@ -2,7 +2,7 @@
 
 namespace NX.Journal.Template
 {
-    public static class NXJournal
+    public class NXJournal
     {
         public static void Main(string[] args)
         {
