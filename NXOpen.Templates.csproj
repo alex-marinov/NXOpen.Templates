@@ -25,9 +25,9 @@
     <LocalizeTemplates>false</LocalizeTemplates>
   </PropertyGroup>
 
-  <ItemGroup>
+  <!-- <ItemGroup>
     <PackageReference Include="Microsoft.TemplateEngine.Tasks" Version="*" PrivateAssets="all" IsImplicitlyDefined="true"/>
-  </ItemGroup>
+  </ItemGroup> -->
 
   <ItemGroup>
     <Content Include="content\**" Exclude="content\**\bin\**;content\**\obj\**" />
